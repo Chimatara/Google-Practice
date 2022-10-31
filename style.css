@@ -53,8 +53,8 @@ input {
   padding: 15px ;
   border-radius: 200px;
   text-align: left;
-background-color: #f2f0f0;
-border: none;
+ background-color: #f2f0f0;
+ border: none;
 }
 .input img {
   width: 5%;
@@ -67,18 +67,19 @@ border: none;
 .image1 {
     opacity: 0.5;
 }
-.searches {
+/* .searches {
     display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 30px;
 }
 .profile {
-    width: 100px;
-    height: 100px;
-    background-color: red;
+    width: 70px;
+    height: 70px;
+    background-color: #f2f0f0;
     margin: 10px;
-}
+    border-radius: 200px;
+} */
 footer p{
     text-align: center;
     color: blue;
